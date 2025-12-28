@@ -1,18 +1,41 @@
-# Halo semua! 
+<h1 align="center">Hi 👋, I'm Zhafran An-Nawawi</h1>
+<h3 align="center">Web Developer | Lifelong Learner | Tech Enthusiast</h3>
 
-Perkenalkan nama saya **Zhafran An-Nawawi**.<br>
+---
 
-Saya seorang **Web Developer** di [Dicoding](https://www.dicoding.com/).<br>
+### 👨‍💻 About Me
+- 🌐 Web Developer at **Dicoding**
+- 🍎 Responsible for **iOS learning material quality**
+- 🎓 Certified by **University of Toronto** (Coursera)
+- 🤖 **Google Associate Android Developer** (since 2019)
+- 🚀 Passionate about building impactful and meaningful software
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+---
 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/zhafran-an-nawawi-3ba246327/) ku ya.
-
+### 🔗 Connect with Me
 <p align="left">
-<a href="https://github.com/zhafrannawawi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zhafrannawawi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zhafrannawawi&layout=compact&theme=algolia"/>
-</a>
+  <a href="https://www.linkedin.com/in/zhafran-an-nawawi-3ba246327/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+### 📊 GitHub Statistics
+<p align="left">
+  <a href="https://github.com/zhafrannawawi">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zhafrannawawi&show_icons=true&theme=algolia&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhafrannawawi&layout=compact&theme=algolia"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack (Growing)
+- HTML, CSS, JavaScript  
+- Web Development Fundamentals  
+- Android & iOS Ecosystem (Conceptual & Quality Review)
+
+---
+
+> *"Code is not just about logic, but about impact."*
