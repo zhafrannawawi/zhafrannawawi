@@ -6,8 +6,6 @@
 ### 👨‍💻 About Me
 - 🌐 Web Developer at **Dicoding**
 - 🍎 Responsible for **iOS learning material quality**
-- 🎓 Certified by **University of Toronto** (Coursera)
-- 🤖 **Google Associate Android Developer** (since 2019)
 - 🚀 Passionate about building impactful and meaningful software
 
 ---
@@ -17,7 +15,13 @@
   <a href="https://www.linkedin.com/in/zhafran-an-nawawi-3ba246327/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
+  <a href="https://www.instagram.com/zhafrannawawi/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+
 </p>
+
 
 ---
 
