@@ -4,8 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌐 Web Developer at **Dicoding**
-- 🍎 Responsible for **iOS learning material quality**
+- 🌐 Backend Developer at **PT.Inforsys Indonesia**
 - 🚀 Passionate about building impactful and meaningful software
 
 ---
